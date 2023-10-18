@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelabeatty
 - 👀 I’m interested in Music, Photography, and all things Space
-- 🌱 I’m currently studying astrophysics at University of California, Berkeley
+- 🌱 I recently graduated with a BA in Astrophysics at University of California, Berkeley
 - 💞️ I’m looking to collaborate on research and coding projects
 - 📫 How to reach me: arbeatty05@berkeley.edu
 
